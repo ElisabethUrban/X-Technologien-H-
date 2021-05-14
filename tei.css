@@ -1,0 +1,17 @@
+tei-head {font-weight: bold; font-size: 130%; display:inline;margin-top: 1em;
+  display: block;}
+tei-head:after{content:"\a";
+white-space: pre;}
+
+tei-stage {color:orange; font-style: italic;
+    display:inline;margin-top: 1em;
+  display: block;
+}
+tei-stage:after {content:"\a";
+    white-space: pre;}
+
+tei-speaker {color:brown; font-weight: bold; }
+
+tei-l {display:inline;}
+tei-l:after{content:"\a";
+    white-space: pre;}
